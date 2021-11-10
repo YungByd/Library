@@ -10,7 +10,7 @@
     <script src="js/script.js"></script>   
 
 </head>
-лох сам лох
+лох сам лох нет ты
 <body>
     <div id="navigation" name="navigation">
        <div class="logo">
