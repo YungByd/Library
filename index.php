@@ -10,7 +10,7 @@
     <script src="js/script.js"></script>   
 
 </head>
-лохванючий
+лохванючийчмо
 <body>
     <div id="navigation" name="navigation">
        <div class="logo">
